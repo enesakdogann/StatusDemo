@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appStatusDemo_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_StatusDemo.cpp"
+  ".rcc/qmlcache/appStatusDemo_Main_qml.cpp"
+  ".rcc/qmlcache/appStatusDemo_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appStatusDemo_qmlcache_loader.cpp"
+  "CMakeFiles/appStatusDemo_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appStatusDemo_autogen.dir/ParseCache.txt"
+  "appStatusDemo_autogen"
+  "CMakeFiles/appStatusDemo.dir/appStatusDemo_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appStatusDemo.dir/appStatusDemo_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appStatusDemo.dir/appstatusdemo_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appStatusDemo.dir/appstatusdemo_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appStatusDemo.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appStatusDemo_raw_qml_0.cpp.obj"
+  "CMakeFiles/appStatusDemo.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_appStatusDemo_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appStatusDemo.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_StatusDemo.cpp.obj"
+  "CMakeFiles/appStatusDemo.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_StatusDemo.cpp.obj.d"
+  "CMakeFiles/appStatusDemo.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appStatusDemo_Main_qml.cpp.obj"
+  "CMakeFiles/appStatusDemo.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appStatusDemo_Main_qml.cpp.obj.d"
+  "CMakeFiles/appStatusDemo.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appStatusDemo_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appStatusDemo.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/appStatusDemo_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appStatusDemo.dir/main.cpp.obj"
+  "CMakeFiles/appStatusDemo.dir/main.cpp.obj.d"
+  "StatusDemo/appStatusDemo.qmltypes"
+  "appStatusDemo.exe"
+  "appStatusDemo.exe.manifest"
+  "appStatusDemo.pdb"
+  "appStatusDemo_autogen/mocs_compilation.cpp"
+  "appStatusDemo_autogen/timestamp"
+  "appstatusdemo_qmltyperegistrations.cpp"
+  "libappStatusDemo.dll.a"
+  "meta_types/appStatusDemo_json_file_list.txt"
+  "meta_types/appStatusDemo_json_file_list.txt.timestamp"
+  "meta_types/qt6appstatusdemo_metatypes.json"
+  "meta_types/qt6appstatusdemo_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appStatusDemo.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

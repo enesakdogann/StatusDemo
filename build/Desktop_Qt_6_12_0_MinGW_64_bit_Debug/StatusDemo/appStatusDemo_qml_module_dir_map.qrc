@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/StatusDemo">C:/Users/enesa/Documents/StatusDemo/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/StatusDemo</file>
+
+  </qresource>
+</RCC>

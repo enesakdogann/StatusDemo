@@ -1,0 +1,7 @@
+
+set(target "appStatusDemo")
+set(working_dir "C:/Users/enesa/Documents/StatusDemo")
+set(src_and_dest_list
+
+)
+set(timestamp_file "C:/Users/enesa/Documents/StatusDemo/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/appStatusDemo_res.txt")
